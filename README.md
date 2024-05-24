@@ -60,7 +60,7 @@ Lexica.art：
 # prompts utilizados
 
  crie um artigo com essa imagem sobre chatgpt e a ética da inteligencia artificial.
-    {REGRAS}
+   - {REGRAS}
    - No maximo 5 linhas por bloco de explicação.
    - explique de maneira informal.
    - Os Blocos que serão criados estão abaixo

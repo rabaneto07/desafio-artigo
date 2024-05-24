@@ -57,7 +57,7 @@ Lexica.art：
 
 ## 📚 Materiais
 
-## prompts utilizados
+# prompts utilizados
 
 -  crie um artigo com essa imagem sobre chatgpt e a ética da inteligencia artificial.
     {REGRAS}

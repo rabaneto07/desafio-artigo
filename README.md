@@ -17,7 +17,7 @@ ChatGPT：
 | conteúdo | Faça um texto para ebook , com foco em ChatGPT, listando os principais países com leis ou projetos sobre a regulamentação da IA. {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga um resumo ao fim de cada resposta. , sempre deixe um título sugestivo por tópico |
 
 
-Lexica.art：
+##  Lexica.art：
 
 - Utilizei o acervo de imagens gratuitas.
 

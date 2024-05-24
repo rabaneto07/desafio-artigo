@@ -61,20 +61,20 @@ Lexica.art：
 
  crie um artigo com essa imagem sobre chatgpt e a ética da inteligencia artificial.
     {REGRAS}
-   > No maximo 5 linhas por bloco de explicação. 
-   >  explique de maneira informal.
-   >  Os Blocos que serão criados estão abaixo
-   > Introdução
-   > Questões de Privacidade
-   > Preconceito e Discriminação
-   > Transparência e Responsabilidade
-   > Impacto no Trabalho
-   > Educação e Capacitação
-   > Uso Indevido e Segurança
-   > Ética no Desenvolvimento
-   > Acessibilidade e Inclusão
-   > Governança e Regulação
-   > Conclusão
+   - No maximo 5 linhas por bloco de explicação.
+   - explique de maneira informal.
+   - Os Blocos que serão criados estão abaixo
+   - Introdução
+   - Questões de Privacidade
+   - Preconceito e Discriminação
+   - Transparência e Responsabilidade
+   - Impacto no Trabalho
+   - Educação e Capacitação
+   - Uso Indevido e Segurança
+   - Ética no Desenvolvimento
+   - Acessibilidade e Inclusão
+   - Governança e Regulação
+   - Conclusão
 
 <p>Vcnt Cardoso</p>
 <p>
